@@ -1214,6 +1214,10 @@ body > footer .copyrights {
 
 /* Clients */
 .client-block {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
   text-align: center;
   padding: 5px 0;
   opacity: 0.4;
@@ -1224,12 +1228,16 @@ body > footer .copyrights {
   transition: all 0.2s ease-in-out;
 }
 
+.client-block img {
+}
+
 .client-block:hover {
   opacity: 1;
 }
 
 .client-block img {
-  max-width: 80px;
+  max-height: 80px;
+  width: auto;
 }
 /* /Clients */
 
