@@ -1,5 +1,9 @@
 # Portfólio de Cesar Oliveira
 
+[![GitHub release](https://img.shields.io/github/release/olliveirajr/olliveirajr.github.io.svg)](https://GitHub.com/olliveirajr/olliveirajr.github.io/releases/)
+[![GitHub license](https://img.shields.io/github/license/olliveirajr/olliveirajr.github.io.svg)](https://github.com/olliveirajr/olliveirajr.github.io/blob/main/LICENSE)
+![GitHub repo size](https://img.shields.io/github/repo-size/olliveirajr/olliveirajr.github.io.svg)
+
 Este é o repositório do meu portfólio pessoal, onde apresento minhas habilidades, experiências e projetos. O site foi desenvolvido utilizando diversas tecnologias para garantir uma experiência agradável e responsiva.
 
 ## Tecnologias Utilizadas
